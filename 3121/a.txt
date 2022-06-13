@@ -1,0 +1,19 @@
+
+
+1. 0 len(A) -1
+2. 0 : i-1 i+1 : n
+3. 
+lookup max = O(1)
+lookup l max(O(1))
+lookup r max(O(1))
+binary search with unsorted array
+start in middle
+# check for max left
+# check for max right
+
+
+find index for max
+# do lookup O(1)
+# logn time due to subproblems
+
+# n - r
